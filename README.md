@@ -3,6 +3,7 @@
 ## 📊 Project Overview
 This project is a Machine Learning-based **sales forecasting system** built for Indian retail data.  
 It predicts future sales trends and provides interactive business insights using a Streamlit dashboard.
+"I Developed this project as miniproject at Internship at Thiranex."
 
 ---
 
@@ -53,13 +54,34 @@ pip install -r requirements.txt
 python train_model.py
 streamlit run app.py
 
+---
+
 📊 Dataset
 
 Use Indian Retail dataset:
+
 👉 https://www.kaggle.com/datasets/abuhumzakhan/store-data
 
+📌 Project Highlights
+
+✔ Real-world sales forecasting
+✔ AI-based predictions
+✔ Business insights dashboard
+✔ Clean and professional UI
+✔ Internship-ready project
+
+🧾 Output Example
+Predicted Sales (₹)
+Monthly Trends
+Category-wise Sales
+Region-wise Analysis
+Future Forecast Graph
 👨‍💻 Author
 
-Bharti Sahu
+Developed for Internship Submission
 
-"I Developed this project as miniproject at Internship at Thiranex."
+⭐ Future Improvements
+Add Deep Learning (LSTM forecasting)
+Deploy on Streamlit Cloud
+Add Login System
+Add AI Chatbot for insights
